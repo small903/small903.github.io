@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
-        <loc>https://small903.github.io/</loc>
+        <loc>https://www.zgctwh.love/</loc>
         <changefreq>daily</changefreq>
         <priority>1</priority>
     </url>
@@ -10,7 +10,7 @@
     
     
     <url>
-        <loc>https://small903.github.io/about/</loc>
+        <loc>https://www.zgctwh.love/about/</loc>
         <lastmod>2022-02-08T15:17:56.521Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
@@ -19,7 +19,7 @@
     
     
     <url>
-        <loc>https://small903.github.io/categories/</loc>
+        <loc>https://www.zgctwh.love/categories/</loc>
         <lastmod>2022-02-05T06:53:23.074Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
@@ -28,7 +28,7 @@
     
     
     <url>
-        <loc>https://small903.github.io/tags/</loc>
+        <loc>https://www.zgctwh.love/tags/</loc>
         <lastmod>2022-02-05T06:49:32.488Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
